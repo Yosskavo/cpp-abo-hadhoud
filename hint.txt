@@ -1,0 +1,6 @@
+in this diractory they are two tpes of file one startwith p yhan the number and one start with prog than a number
+p : means its a problem from second cours
+prog : means its from same cours and its a program
+
+
+am using PI = 3.14 so some result will be deff

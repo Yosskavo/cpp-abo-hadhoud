@@ -1,0 +1,15 @@
+answer yes or no if the you can name this variables by this chosing one : 
+
+Age     : yes
+My-Age  : no   <it has a spieal character>
+_Age    : yes  
+My_Age  : yes
+2x      : no   <started with a number>
+X2      : yes
+My Name : no   <it has a spieal character>
+Myname  : yes
+#Name   : no   <it has a spieal character>
+$Name   : no   <it has a spieal character>
+N@me    : no   <it has a spieal character>
+int     : no   <it is data type>
+fleat   : no   <it is a data type>
