@@ -1,0 +1,22 @@
+#include <iostream>
+
+using namespace std;
+
+void print_resualt(int la, int m)
+{
+	cout << la / m << " Months" << endl;
+}
+
+int main()
+{
+	int loan_amount;
+	int month;
+
+	cout << "inter a loan amount : ";
+	cin >> loan_amount; 
+
+	cout << "how many monthes wanna to pay this lean : ";
+	cin >> month; 
+	
+	print_resualt(loan_amount, month);
+}
